@@ -1,9 +1,9 @@
-package ru.kk.task10week._main;
+package ru.kk.auth_app._main;
 
-import ru.kk.task10week.service.Account;
-import ru.kk.task10week.util.WrongLoginException;
-import ru.kk.task10week.util.WrongLoginOrPasswordException;
-import ru.kk.task10week.util.WrongPasswordException;
+import ru.kk.auth_app.service.Account;
+import ru.kk.auth_app.util.WrongLoginException;
+import ru.kk.auth_app.util.WrongLoginOrPasswordException;
+import ru.kk.auth_app.util.WrongPasswordException;
 
 public class _Main {
     public static void main(String[] args) {

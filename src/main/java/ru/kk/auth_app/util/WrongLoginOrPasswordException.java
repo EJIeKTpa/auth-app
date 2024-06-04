@@ -1,4 +1,4 @@
-package ru.kk.task10week.util;
+package ru.kk.auth_app.util;
 
 public class WrongLoginOrPasswordException extends Exception {
     public WrongLoginOrPasswordException(String message) {

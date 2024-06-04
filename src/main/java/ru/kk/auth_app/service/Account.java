@@ -1,8 +1,8 @@
-package ru.kk.task10week.service;
+package ru.kk.auth_app.service;
 
-import ru.kk.task10week.util.WrongLoginException;
-import ru.kk.task10week.util.WrongLoginOrPasswordException;
-import ru.kk.task10week.util.WrongPasswordException;
+import ru.kk.auth_app.util.WrongLoginException;
+import ru.kk.auth_app.util.WrongLoginOrPasswordException;
+import ru.kk.auth_app.util.WrongPasswordException;
 
 import java.util.HashMap;
 
